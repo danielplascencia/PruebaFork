@@ -2,8 +2,10 @@
 
 using namespace std;
 
-int main()
+int main(int argv, char **argc)
 {
-    cout << "adios mundo cruel" << endl;
-    return -1;
+    "ESTO ES UN HOLA MUNDO" << endl;
+    
+    return 0;
+
 }
